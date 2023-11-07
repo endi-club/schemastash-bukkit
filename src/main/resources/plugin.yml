@@ -1,0 +1,4 @@
+name: SchemastashBukkit
+version: '${project.version}'
+main: club.endi.schemastash.bukkit.SchemastashBukkit
+api-version: '1.20'

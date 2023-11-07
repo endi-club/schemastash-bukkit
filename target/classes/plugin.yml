@@ -1,0 +1,4 @@
+name: SchemastashBukkit
+version: '1.0-SNAPSHOT'
+main: club.endi.schemastash.bukkit.SchemastashBukkit
+api-version: '1.20'
